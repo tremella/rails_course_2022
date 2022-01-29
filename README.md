@@ -1,3 +1,5 @@
+**Hello!** 🌻
+
 This repo was created on 29 Jan 2022 by Jess Brand (me!)
 
 I'm making it so I have a place to work through some RubyOnRails courses on my weekends. 
